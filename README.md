@@ -13,5 +13,6 @@ Then if you understand 80% of how it works you can use your creativity and you d
 3.1.mohammadmahdimatinfarid2004@gmail.com<br />
 3.2.mmatinfarid@gmail.com<br />
 3.3.023-3290483<br />
-
-
+Tips for detect color : <br />
+the easiest way : use if and take some range number for any color<br />
+but this is not best way ...
