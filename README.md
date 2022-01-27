@@ -1,2 +1,5 @@
 # tcs3200_Matinfarid_MRA1400
-We are here to speech about tcs3200 sensor and learn about how it work 
+We are here to talk about the tcs3200 sensor and learn about how it works
+in our method to use tcs3200 to detect colors you don't need any special library for step 1: just run Arduino ...
+step 2:run the code and change the pin if you're pin is different to connect to (define) ...
+step 3:when you see the output of sensor and code you have to think about how ? and search in google and i have spechial opinion for you read datashit to undrastand beeter this sensor and how it work (my spechial opinion https://lastminuteengineers.com/tcs230-tcs3200-color-sensor-arduino-tutorial/)
